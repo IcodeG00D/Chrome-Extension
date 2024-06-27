@@ -41,3 +41,18 @@ Voice Tab Switcher is a Chrome extension that allows seamless tab navigation usi
 
 ## File Structure
 
+VoiceTabSwitcher/
+│
+├── background.js
+├── manifest.json
+├── popup.html
+├── images/
+│ ├── icon16.png
+│ ├── icon48.png
+│ └── icon128.png
+│
+├── popup.js
+├── popup.css
+├── content-script.js
+├── LICENSE.txt
+└── README.md
