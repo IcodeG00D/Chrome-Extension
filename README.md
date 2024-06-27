@@ -22,7 +22,7 @@ Voice Tab Switcher is a Chrome extension that allows seamless tab navigation usi
 
 1. **Download or Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/voice-tab-switcher.git
+    https://github.com/IcodeG00D/Chrome-Extension.git
     ```
 2. **Open Chrome Extensions Page**:
     - Navigate to `chrome://extensions/`.
